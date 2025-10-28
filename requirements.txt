@@ -1,6 +1,6 @@
-streamlit==1.38.0
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.8.4
-scipy==1.11.4
-reliability==0.9.9
+streamlit>=1.36
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+scipy>=1.11
+reliability==0.9.0
